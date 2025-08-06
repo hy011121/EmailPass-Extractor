@@ -3,7 +3,7 @@
 ## WTF is This?
 
 
-**EmailPass Extractor**—or whatever you wanna call it (*Combo Purifier*, *CleanLeech*, *CredScrub*, *UniqCred Extractor*)—is here to pull email:password combos outta messy files. You got a text file lookin’ like it went through a hurricane? This thing takes out the junk, spits out the clean stuff. No “country” this, no “provider” that, just straight `email:password`. You’re welcome.
+**EmailPass Extractor**-or whatever you wanna call it (*Combo Purifier*, *CleanLeech*, *CredScrub*, *UniqCred Extractor*)—is here to pull email:password combos outta messy files. You got a text file lookin’ like it went through a hurricane? This thing takes out the junk, spits out the clean stuff. No “country” this, no “provider” that, just straight `email:password`. You’re welcome.
 
 ---
 
